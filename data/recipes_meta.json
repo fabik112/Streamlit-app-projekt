@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Tomato Pasta",
+    "ingredients": "pasta,tomato,olive oil,garlic,basil",
+    "instructions": "Cook pasta. Saute garlic and tomato in olive oil. Mix with pasta. Garnish with basil."
+  },
+  {
+    "id": 2,
+    "title": "Vegetable Omelette",
+    "ingredients": "eggs,tomato,onion,pepper,salt,oil",
+    "instructions": "Beat eggs. Chop vegetables. Cook vegetables, pour eggs, cook until set."
+  },
+  {
+    "id": 3,
+    "title": "Chickpea Salad",
+    "ingredients": "chickpeas,tomato,cucumber,onion,olive oil,lemon,salt",
+    "instructions": "Mix all ingredients. Dress with olive oil and lemon. Season to taste."
+  },
+  {
+    "id": 4,
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": "bread,cheese,butter",
+    "instructions": "Butter bread, place cheese between slices, grill until golden and cheese melts."
+  },
+  {
+    "id": 5,
+    "title": "Stir-fry Vegetables",
+    "ingredients": "broccoli,carrot,soy sauce,garlic,oil",
+    "instructions": "Stir-fry garlic in oil, add vegetables, add soy sauce, cook until tender."
+  },
+  {
+    "id": 6,
+    "title": "Pancakes",
+    "ingredients": "flour,milk,egg,sugar,butter",
+    "instructions": "Mix ingredients into batter. Cook small pancakes on a hot pan until golden."
+  }
+]
